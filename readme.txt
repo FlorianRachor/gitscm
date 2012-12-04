@@ -1,6 +1,7 @@
-first line
-second line
+ererre
+here a conflict
 after second commit
-line for conflict
-bla bla
-
+for remote
+ 
+some lines more
+asdfasdf
