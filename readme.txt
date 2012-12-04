@@ -1,5 +1,6 @@
 first line
 second line
 after second commit
-for remote
+line for conflict
+bla bla
 
