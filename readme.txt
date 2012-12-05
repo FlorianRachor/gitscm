@@ -1,4 +1,5 @@
 first line
 second line
-third line
+I will here conflict
 forth line
+and here too
