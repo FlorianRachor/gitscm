@@ -1,7 +1,4 @@
-ererre
-here a conflict
-after second commit
-for remote
- 
-some lines more
-asdfasdf
+first line
+second line
+third line
+forth line
