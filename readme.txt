@@ -1,7 +1,8 @@
 first line
 second line
-I will here conflict
+another conflict
 third line
 forth line
 and here too
 php storm line
+terminal line
