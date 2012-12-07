@@ -8,5 +8,5 @@ php storm line
 terminal line
 phpstorm line
 phpstorm one line more
-asdfasf
-new line from git2
+git2
+new line
